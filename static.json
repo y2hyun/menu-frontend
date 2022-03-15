@@ -1,5 +1,5 @@
 {
-  "root": "dist/",
+  "root": "build/",
   "proxies": {
     "/": {
       "target": "${BACKEND_URL}"
