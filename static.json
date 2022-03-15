@@ -1,0 +1,8 @@
+{
+  "root": "dist/",
+  "proxies": {
+    "/": {
+      "target": "${BACKEND_URL}"
+    }
+  }
+}
